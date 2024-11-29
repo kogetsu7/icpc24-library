@@ -2,4 +2,4 @@
  [![GitHub Pages](https://img.shields.io/static/v1?label=GitHub+Pages&message=+&color=brightgreen&logo=github)](https://kogetsu7.github.io/icpc24-library/)
 
 # icpc24-library
-チームAquaがICPC 2024 Asia Yokohama Regionalで使用するライブラリです
+ICPC 2024 Asia Yokohama Regionalで使用するライブラリです

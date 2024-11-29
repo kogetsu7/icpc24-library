@@ -8,7 +8,7 @@ int main() {
     assert(!chmin(a, INF64));
     assert(!chmin(a, ll(INF32)));
     assert(chmax(a, ll(INF32)));
-    assert(chmax(a, ll(INF64)));
+    assert(chmax(a, INF64));
 
     cout << "Hello World\n";
 

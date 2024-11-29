@@ -11,8 +11,8 @@ constexpr ll INF64 = 1LL << 60;
 #define fore(i, a) for (auto& i : (a))
 #define all(a) begin(a), end(a)
 template <class T> bool chmin(T& a, const T& b) {
-    return (a > b) ? (a = b, true), false;
+    return (a > b) ? (a = b, true) : false;
 }
 template <class T> bool chmax(T& a, const T& b) {
-    return (a < b) ? (a = b, true), false;
+    return (a < b) ? (a = b, true) : false;
 }

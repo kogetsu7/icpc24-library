@@ -1,0 +1,5 @@
+.verify-helper/timestamps.local.json
+
+*.o
+*.out
+*.gch
